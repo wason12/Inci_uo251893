@@ -1,0 +1,12 @@
+[submodule "Loader_uo251893"]
+	path = Loader_uo251893
+	url = https://github.com/wason12/Loader_uo251893
+[submodule "Agents_uo251893"]
+	path = Agents_uo251893
+	url = https://github.com/wason12/Agents_uo251893
+[submodule "InciManager_uo251893"]
+	path = InciManager_uo251893
+	url = https://github.com/wason12/InciManager_uo251893
+[submodule "InciDashboard_uo251893"]
+	path = InciDashboard_uo251893
+	url = https://github.com/wason12/InciDashboard_uo251893
